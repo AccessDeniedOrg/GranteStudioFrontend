@@ -66,12 +66,12 @@ const Home = (props) => {
 						<Col xs={12} md={6} lg={6} className="banner-text">
 							<h1>
 								<strong>
-									This Christmas,
+									Indulge in the Art of Giving,
 								</strong>
 							</h1>
 							<br />
 							<p style={{ fontSize: "22px", lineHeight: "32px" }}>
-								Indulge in the Art of Giving, <br />
+								<br />
 								and let the jingle of your coins reach the right doors.
 							</p>
 							<br />

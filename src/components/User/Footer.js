@@ -45,9 +45,9 @@ class Footer extends Component {
 											<a
 												target="_blank"
 												rel="noreferrer"
-												href="https://www.linkedin.com/in/sanchita-s-51393b182/"
+												href="https://www.linkedin.com/in/tarang-padia-b407591a0/"
 											>
-												Sanchita Shirur
+												Tarang Padia
 											</a>
 										</li>
 										<li>
@@ -56,7 +56,16 @@ class Footer extends Component {
 												rel="noreferrer"
 												href="https://www.linkedin.com/in/tarang-padia-b407591a0/"
 											>
-												Tarang Padia
+												Siddhant Shirodkar
+											</a>
+										</li>
+										<li>
+											<a
+												target="_blank"
+												rel="noreferrer"
+												href="https://www.linkedin.com/in/tarang-padia-b407591a0/"
+											>
+												Manish sharma
 											</a>
 										</li>
 									</ul>
@@ -87,7 +96,7 @@ class Footer extends Component {
 												target="_blank"
 												rel="noreferrer"
 												style={{ fontSize: "25px" }}
-												href="https://github.com/AccessDeniedOrg/BuidlIt2021"
+												href="https://github.com/GranteStudio/GranteStudio"
 											>
 												<FaGithub />
 											</a>
