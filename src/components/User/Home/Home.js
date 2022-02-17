@@ -71,7 +71,6 @@ const Home = (props) => {
 							</h1>
 							<br />
 							<p style={{ fontSize: "22px", lineHeight: "32px" }}>
-								<br />
 								and let the jingle of your coins reach the right doors.
 							</p>
 							<br />
