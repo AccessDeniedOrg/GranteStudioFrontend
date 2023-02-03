@@ -54,18 +54,9 @@ class Footer extends Component {
 											<a
 												target="_blank"
 												rel="noreferrer"
-												href="https://www.linkedin.com/in/tarang-padia-b407591a0/"
+												href="https://www.linkedin.com/in/sanchitashirur/"
 											>
-												Siddhant Shirodkar
-											</a>
-										</li>
-										<li>
-											<a
-												target="_blank"
-												rel="noreferrer"
-												href="https://www.linkedin.com/in/tarang-padia-b407591a0/"
-											>
-												Manish sharma
+												Sanchita Anil Shirur
 											</a>
 										</li>
 									</ul>
